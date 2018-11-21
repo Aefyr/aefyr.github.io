@@ -1,0 +1,18 @@
+{
+   "items":[
+      {
+         "changelog":"Переезд на новую версию SOVA V",
+         "link":"http://sovax.dracoblog.tk/v18.apk",
+         "timestamp":1539523413000,
+         "version":"v18 Beta",
+         "version_int":4
+      },
+      {
+         "changelog":"Переезд на новую версию SOVA V",
+         "link":"http://sovax.dracoblog.tk/v17.apk",
+         "timestamp":1537814167000,
+         "version":"v17 Beta",
+         "version_int":5
+      }
+   ]
+}
