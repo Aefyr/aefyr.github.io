@@ -1,18 +1,18 @@
 {
    "items":[
       {
+         "changelog":"Оптимизирован размер APK",
+         "link":"http://sovax.dracoblog.tk/v191.apk",
+         "timestamp":1546782527000,
+         "version":"v19.1 Beta",
+         "version_int":8
+      },
+      {
          "changelog":"Фикс проблемы, которой пока нет 🌚",
          "link":"http://sovax.dracoblog.tk/v19.apk",
          "timestamp":1542786500000,
          "version":"v19 Beta",
          "version_int":7
-      },
-      {
-         "changelog":"Переезд на новую версию SOVA V",
-         "link":"http://sovax.dracoblog.tk/v18.apk",
-         "timestamp":1539523413000,
-         "version":"v18 Beta",
-         "version_int":6
       }
    ]
 }
