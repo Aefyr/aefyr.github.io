@@ -1,0 +1,30 @@
+#container{
+    font-family: 'Open Sans', sans-serif;
+    padding: 2%;
+  }
+  
+  #langs{
+    font-size:16pt;
+    font-weight: bold;
+  }
+  
+  .ppentry-title-big{
+    font-size:32pt;
+    font-weight: bold;
+    padding-top:12pt;
+    padding-bottom:12pt;
+  }
+  
+  .ppentry-title-normal{
+    font-size:24pt;
+    font-weight: bold;
+    padding-top:12pt;
+    padding-bottom:12pt;
+  }
+  
+  .ppentry-text{
+    font-size:14pt;
+    font-weight:normal;
+    padding-top:16pt;
+    padding-bottom:8pt;
+  }
